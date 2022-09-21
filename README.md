@@ -18,6 +18,7 @@ Database: PostgreSQL | MongoDB | Mongoose | MySQL |
 ✉️ How to reach me:
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/rikkizhang//)
+| 
 Send me an email at rikkizhang08@gmail.com
 
 <!---
